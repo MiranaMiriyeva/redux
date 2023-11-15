@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    
+}
+button{
+ margin:0 10px;   
+ background-color: aqua;
+}
