@@ -1,6 +1,7 @@
 import React from 'react'
 import { useDispatch } from 'react-redux'
 import { decreaseAction } from '../../redux/action/Counter.action'
+import "./style.css"
 
 const Decrement = () => {
   const dis = useDispatch()
